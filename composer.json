@@ -1,0 +1,19 @@
+{
+    "name": "thepa/intranet-tester",
+    "description": "local test",
+    "require": {
+        "bcosca/fatfree": "3.7",
+        "phpmailer/phpmailer": "6.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "Thepa\\IntranetTester\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "ThePalad1n",
+            "email": "evangreen91@gmail.com"
+        }
+    ]
+}
